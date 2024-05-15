@@ -1,0 +1,41 @@
+
+h1 {
+    color: gold;
+    border: 5px solid;
+    font-size: 70px;
+    padding: 10px;
+    -webkit-text-stroke: 1px;
+}
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkgreen;
+    text-align: center;
+    background-image: url(360_F_398337446_ZzPX4Tf1yKDuFownU94GA0EidaqNZPkz.jpg);
+}
+p {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    -webkit-text-stroke: 0.6px;
+    
+    
+}
+#mensagemEL {
+    font-size: 60px;
+    font-style: italic;
+}
+button {
+  background-color: gold;
+  color: rgb(0, 0, 0);
+  padding: 10px 32px;
+  font-size: 40px;
+  cursor: pointer;
+  font-weight: bold;
+  border-color: aliceblue;
+  border-radius: 20px;
+  width: 400px;
+  margin-top: 10px;
+  
+ 
+}
